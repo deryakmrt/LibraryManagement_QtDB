@@ -1,0 +1,13 @@
+release/kitapal.o
+release/kitaplar.o
+release/kitapver.o
+release/main.o
+release/mainwindow.o
+release/tum_2101.o
+release/uyeler.o
+release/qrc_images.o
+release/moc_kitapal.o
+release/moc_kitaplar.o
+release/moc_kitapver.o
+release/moc_mainwindow.o
+release/moc_uyeler.o
