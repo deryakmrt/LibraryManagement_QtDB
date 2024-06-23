@@ -1,5 +1,5 @@
 # LibraryManagement_QtDB
- 2023-2024 BAHAR YARIYILI GÖRSEL PROGRAMLAMA DERSİ LABORATUVAR UYGULAMASI  
+# 2023-2024 BAHAR YARIYILI GÖRSEL PROGRAMLAMA DERSİ LABORATUVAR UYGULAMASI  
 Bir kütüphane otomasyonu yapılacaktır. Bu otomasyon kütüphaneye üye olan kişileri, kitapları ve bu üyelerin ödünç kitap alma ve ödünç kitabı verme durumlarının tutulduğu bir otomasyondur. Ödevde veri tabanı kullanılacaktır ve Qt ile veri tabanı arasında bağlantı yapılacaktır. Bu ödev veri tabanı üzerinde işlemler içermektedir. Veri tabanındaki tabloların adları ve alanları aşağıdaki gibi olmalıdır;  
 üye:  
 • uye_no (int)  • uye_ad (text) • uye_soyad (text)  
